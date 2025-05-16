@@ -119,11 +119,3 @@ graph TD
 - [Linux Privilege Escalation Checklist](https://github.com/netbiosX/Checklists/blob/master/Linux-Privilege-Escalation.md)
 
 ---
-
-```markdown
-[![LinkedIn](https://img.shields.io/badge/-Connect%20on%20LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/seuprofile)
-[![TryHackMe](https://img.shields.io/badge/-TryHackMe%20Profile-212C42?logo=tryhackme)](https://tryhackme.com/p/seuuser)
-[![GitHub](https://img.shields.io/badge/-More%20Labs-black?logo=github)](https://github.com/seuusuario)
-```
-
-> ✨ **Dica**: Atualize este README com suas informações pessoais e screenshots reais para um portfólio impactante!
