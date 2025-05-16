@@ -1,2 +1,0 @@
-# hacking club
-treinanmentos/laboratórios
