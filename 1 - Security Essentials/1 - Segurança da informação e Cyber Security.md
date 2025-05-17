@@ -1,12 +1,9 @@
 
-> Baseado nos três pilares da segurança:
-> 
-> - Confidencialidade (C)
->     
-> - Integridade (I)
->     
-> - Disponibilidade (D)
->     
+ Baseado nos três pilares da segurança:
+
+- Confidencialidade (C)>     
+- Integridade (I)
+- Disponibilidade (D)
 
 ---
 
